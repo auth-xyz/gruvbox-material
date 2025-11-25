@@ -7,12 +7,12 @@ homepage = "https://github.com/sainnhe/gruvbox-material"
 
 # What variants exist
 variants = ["dark"]
+files = ["gruvbox.toml"]
 
 targets = [
     "waybar",
     "hyprland",
     "kitty",
-    "alacritty",
     "rofi",
     "dunst",
 ]
